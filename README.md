@@ -1,3 +1,3 @@
 # odin-recipes
 
-In this project i demonstrate  my knoleges of html.
+In this project i demonstrated my knowledges of html.
